@@ -2,8 +2,13 @@
 content_type: resource
 description: This file is a resource which contains information related to introduction
   to lab 2 revisited.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/bff47ccc931875ac8af3b5ce08a8c76c_lec3.pdf
+file: /media/courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/bff47ccc931875ac8af3b5ce08a8c76c_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec3.pdf
 uid: bff47ccc-9318-75ac-8af3-b5ce08a8c76c
