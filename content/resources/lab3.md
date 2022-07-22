@@ -6,6 +6,7 @@ file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab3.pdf
 uid: 43f04275-7728-9392-872d-818cd91660cc
 ---
 This file is a resource which contains information related to introduction to zeners, power supply, timers.
-

@@ -6,6 +6,7 @@ file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab2.pdf
 uid: 8a28bef9-17d9-c787-cf4d-b57cd8afbbfd
 ---
 This file is a resource which contains information related to introduction to bjt, op amps.
-

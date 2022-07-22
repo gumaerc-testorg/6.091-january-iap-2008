@@ -6,6 +6,7 @@ file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec4b.pdf
 uid: 3d13008a-af5b-26f9-be91-462c463c0414
 ---
 This file is a resource which contains information related to introduction to adjustable voltage power supply.
-

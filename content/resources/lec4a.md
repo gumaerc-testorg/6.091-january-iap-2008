@@ -6,6 +6,7 @@ file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec4a.pdf
 uid: 1ebc7a3c-1f59-bab4-88ae-4a8b41c31296
 ---
 This file is a resource which contains information related to introduction to lab 2 revisited.
-

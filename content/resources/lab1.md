@@ -6,6 +6,7 @@ file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab1.pdf
 uid: 82485238-f1d0-41dd-9ac0-df924c7d0b19
 ---
 This file is a resource which contains information related to introduction to oscilloscopes, multimeter, function generator.
-

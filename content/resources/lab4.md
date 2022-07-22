@@ -6,6 +6,7 @@ file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab4.pdf
 uid: f8b621bb-a83f-4ef6-ed56-cfe4289fbe4b
 ---
 This file is a resource which contains information related to introduction to digital circuits.
-
