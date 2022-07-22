@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the lecture notes used for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b5070277-ae3b-99a3-a1bb-acf3890ee45e
 ---
@@ -38,7 +42,7 @@ Soldering exercise
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/lec1))
+({{% resource_link f5b34829-8a7d-2d5d-d1e9-1991d9d66b19 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +54,7 @@ Soldering exercise
 LEDs, bipolar junction transistors, MOSFETs, optical isolators, op amps
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec2))
+({{% resource_link 5cf021d5-f88e-c7ce-343a-8f31bff527f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +66,7 @@ LEDs, bipolar junction transistors, MOSFETs, optical isolators, op amps
 More integrated circuits: 555 timers, voltage regulators, Zener diodes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link bff47ccc-9318-75ac-8af3-b5ce08a8c76c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,9 +80,9 @@ Digital ICs: inverters, counters, flip flops, shift registers, digital to analog
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lec4a))
+({{% resource_link 1ebc7a3c-1f59-bab4-88ae-4a8b41c31296 "PDF" %}})
 
-Appendix ([PDF]({{< baseurl >}}/resources/lec4b))
+Appendix ({{% resource_link 3d13008a-af5b-26f9-be91-462c463c0414 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -98,7 +102,7 @@ Guest lecture (not included in MIT OpenCourseWare) given by Prof. Steven Leeb
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link a003e2e1-99c2-8d2e-9d90-9bb49e6bc26d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
