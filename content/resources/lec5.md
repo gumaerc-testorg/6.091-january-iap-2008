@@ -3,6 +3,7 @@ content_type: resource
 description: This file is a resource which contains information related to introduction
   to stepper motors.
 file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/a003e2e199c28d2e9d909bb49e6bc26d_lec5.pdf
+file_size: 400275
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
