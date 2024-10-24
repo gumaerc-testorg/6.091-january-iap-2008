@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains information related to introduction
   to lab 2 revisited.
-file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/bff47ccc931875ac8af3b5ce08a8c76c_lec3.pdf
+file: /ol-ocw-studio-app/courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/bff47ccc931875ac8af3b5ce08a8c76c_lec3.pdf
 file_size: 772393
 file_type: application/pdf
 learning_resource_types:

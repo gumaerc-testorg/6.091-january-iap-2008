@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains information related to introduction
   to zeners, power supply, timers.
-file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/43f0427577289392872d818cd91660cc_lab3.pdf
+file: /ol-ocw-studio-app/courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/43f0427577289392872d818cd91660cc_lab3.pdf
 file_size: 190334
 file_type: application/pdf
 learning_resource_types:
