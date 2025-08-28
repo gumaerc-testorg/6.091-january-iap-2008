@@ -2,11 +2,11 @@
 content_type: resource
 description: This file is a resource which contains information related to introduction
   to digital circuits.
-file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/f8b621bba83f4ef6ed56cfe4289fbe4b_lab4.pdf
+file: /ol-ocw-studio-app/courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/f8b621bba83f4ef6ed56cfe4289fbe4b_lab4.pdf
 file_size: 174093
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
