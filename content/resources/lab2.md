@@ -2,11 +2,11 @@
 content_type: resource
 description: This file is a resource which contains information related to introduction
   to bjt, op amps.
-file: /courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/8a28bef917d9c787cf4db57cd8afbbfd_lab2.pdf
+file: /ol-ocw-studio-app/courses/6-091-hands-on-introduction-to-electrical-engineering-lab-skills-january-iap-2008/8a28bef917d9c787cf4db57cd8afbbfd_lab2.pdf
 file_size: 134204
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
